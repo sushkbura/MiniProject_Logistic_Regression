@@ -1,0 +1,2 @@
+# MiniProject_Logistic_Regression
+Springboard Mini project Logistic Regression
